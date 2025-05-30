@@ -1,6 +1,7 @@
 Capitol Insider-Trading Analyzer
 
 What is it?
+
 This project is a data-centered Streamlit dashboard that displays US congressional stock trades alongside the SP-500 Index to access the likelihood of insider trading. By scraping from Quiver Quantitative while analyzing financial moves, this tool aims to promote transparency and insight into elected officials' activities.
 
 Features
